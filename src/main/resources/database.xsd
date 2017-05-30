@@ -75,6 +75,12 @@
       <xsd:enumeration value="TINYINT"/>
       <xsd:enumeration value="VARBINARY"/>
       <xsd:enumeration value="VARCHAR"/>
+      <xsd:enumeration value="NVARCHAR"/>
+      <xsd:enumeration value="NCHAR"/>
+      <xsd:enumeration value="LONGNVARCHAR"/>
+      <xsd:enumeration value="NCLOB"/>
+      <xsd:enumeration value="ROWID"/>
+      <xsd:enumeration value="SQLXML"/>
 
       <xsd:enumeration value="BOOLEANINT"/>
       <xsd:enumeration value="BOOLEANCHAR"/>

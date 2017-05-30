@@ -98,7 +98,7 @@ public abstract class TypeMap
     /** The string representation of the {@link java.sql.Types#NCHAR} constant. */
     public static final String NCHAR          = "NCHAR";
     /** The string representation of the {@link java.sql.Types#NVARCHAR} constant. */
-    public static final String LONGNVARCHAR       = "NVARCHAR";
+    public static final String LONGNVARCHAR       = "LONGNVARCHAR";
     /** The string representation of the {@link java.sql.Types#NCLOB} constant. */
     public static final String NCLOB	      = "NCLOB";
     /** The string representation of the {@link java.sql.Types#ROWID} constant. */
